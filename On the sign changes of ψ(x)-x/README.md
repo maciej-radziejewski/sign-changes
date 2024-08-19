@@ -6,4 +6,4 @@ There are two Mathematica notebooks available:
  * `Heuristics.nb`, that shows how we searched for the best parameters,
  * `Verification.nb`, containing the final, rigorous computation.
 
-The files `x1.txt`, ..., `x21.txt`, `zetaZeros22.txt` and `zetaZeros10000.txt` are needed to run the calculations in `Verification.nb`. Both notebooks were created using Mathematica 13.2. We also make them available as PDF files where all results are recorded.
+The files `x1.txt`, ..., `x21.txt`, `zetaZeros22.txt` and `zetaZeros10000.txt` are needed to run the calculations in `Verification.nb`. Both notebooks were created using Mathematica 13.2. We also make them available as PDF files whith all results recorded, for viewing without Mathematica.
