@@ -8,6 +8,6 @@ There are two Mathematica 13.2 notebooks available also as PDF files:
 
 The files `x1.txt`, ..., `x21.txt`, `zetaZeros22.txt` and `zetaZeros10000.txt` are needed to run the calculations in `Verification.nb`. In addition you can download the file
 
- * `Presentation.nb'
+ * `Presentation.nb`
 
 containing the presentation delivered in Będlewo on 23 September 2024, at the workshop _Analytic and Explicit results of zeros of L-functions_ organized by Gautami Bhowmik (Université de Lille), Anne-Maria Ernvall-Hytönen (Helsingin Yliopisto) and Łukasz Pańkowski (Adam Mickiewicz University, Poznań).
