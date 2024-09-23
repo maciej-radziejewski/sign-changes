@@ -10,4 +10,4 @@ The files `x1.txt`, ..., `x21.txt`, `zetaZeros22.txt` and `zetaZeros10000.txt` a
 
  * `Presentation.nb`
 
-containing the presentation delivered in Będlewo on 23 September 2024, at the workshop _Analytic and Explicit results of zeros of L-functions_ organized by Gautami Bhowmik (Université de Lille), Anne-Maria Ernvall-Hytönen (Helsingin Yliopisto) and Łukasz Pańkowski (Adam Mickiewicz University, Poznań).
+containing the presentation delivered in Będlewo on 23 September 2024, at the conference _Analytic and Explicit results of zeros of L-functions_ organized by Gautami Bhowmik (Université de Lille), Anne-Maria Ernvall-Hytönen (Helsingin Yliopisto) and Łukasz Pańkowski (Adam Mickiewicz University, Poznań).
